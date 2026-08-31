@@ -1,7 +1,7 @@
 # 偏元数学泛函分析 · Lean 4 形式化验证
 # Prenary Functional Analysis · Formal Verification in Lean 4
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22207089.svg)](https://doi.org/10.5281/zenodo.22207089)
 
 > **声明**：本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
@@ -95,11 +95,5 @@
 
 ---
 
-## 作者备注（非正文）
-
-- **内部编码**：Day10（三柱·具体 ℝ）、Day10-02（三柱·抽象空间）
-- **术语对照**：动作残差 = action residual ε；退化 = degenerate（ε=0 回经典）
-- **修正记录**：2026-08-29 修正内积入口为 `inner ℝ x y`（`inner (𝕜)` 的 𝕜 为显式参数）；剔除诊断代码
-- **待办**：无穷维空间（希尔伯特空间）验证、Zenodo DOI 回填
 
 ——老陈与AI的深夜实验室 发布 请笑纳——
